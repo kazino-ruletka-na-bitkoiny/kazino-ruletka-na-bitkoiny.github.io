@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-na-bitkoiny.github.io
+Sitemap: https://kazino-ruletka-na-bitkoiny.github.io/sitemap.xml
